@@ -35,7 +35,7 @@
     "lodash": "^4.15.0",
     "raven-js": "3.26.3",
     "react-markdown": "^2.5.0",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "stringify": "^5.1.0",
     "tumblr.js": "^1.1.1",
     "winston": "^3.1.0"
