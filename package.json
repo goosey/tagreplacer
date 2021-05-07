@@ -32,7 +32,7 @@
     "heapdump": "^0.3.9",
     "helmet": "^3.13.0",
     "history": "^4.7.2",
-    "lodash": "^4.15.0",
+    "lodash": "^4.17.21",
     "raven-js": "3.26.3",
     "react-markdown": "^2.5.0",
     "redis": "^2.8.0",
